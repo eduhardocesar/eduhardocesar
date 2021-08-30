@@ -1,8 +1,8 @@
-### Olá pessoal! Sou Eduardo César 👋
-- 🔭 Atualmente tabalho como Consultor (Lighthouse | Deploy Solutions | Data Analytics) na KPMG Brasil.
-- 🌱 Bacharel em Engenharia de Controle e Automação.
+### Hello everyone! I'm Eduardo César 👋
+- I currently work as a Consultant (Lighthouse | Deploy Solutions | Data Analytics) at KPMG Brasil.
+- I have a Bachelor's Degree in Control and Automation Engineering.
 
-### Estatisticas (GitHub Stats)
+### GitHub Stats
 
 <div>
   <a href="https://github.com/eduhardocesar">
@@ -11,7 +11,8 @@
   </a>
 </div>
   
-### Linguagens
+### Technologies and skills
+
 <div>
   <a href="https://github.com/eduhardocesar">
     <img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,8 +29,23 @@
   </a>
 </div>
 
-  
-### Contato 
+### I'm studying
+<div>
+  <a href="https://github.com/eduhardocesar">
+    <img height="30" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/>
+  </a>
+</div>
+
+### I write my code in
+
+<div>
+  <a href="https://github.com/eduhardocesar">
+    <img height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  </a>
+</div>
+
+### My social medias 
   
 <div> 
   <a href = "mailto:eduardocesar92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
