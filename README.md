@@ -1,6 +1,15 @@
-### Hello everyone! I'm Eduardo César 👋
-- I currently work as a Consultant (Lighthouse | Deploy Solutions | Data Analytics) at KPMG Brasil.
-- I have a Bachelor's Degree in Control and Automation Engineering.
+### Hello everyone! I'm `Eduardo César` 👋
+
+<div><img height="250" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></div>
+
+<br>
+
+I'm `Brazilian`, born in the city of `São Paulo`, since I was a child I've been interested in `technology`, and always in my studies I tried to develop new technologies for the `benefit of all`. Listening to good music while writing my codes is essential.
+
+<br>
+
+> - I currently work as a Consultant (Lighthouse | Deploy Solutions | Data Analytics) at KPMG Brasil;
+> - I have a Bachelor's Degree in `Control and Automation Engineering`.
 
 ### GitHub Stats
 
@@ -10,7 +19,9 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhardocesar&layout=compact&langs_count=7&theme=city_lights"/>
   </a>
 </div>
-  
+
+***
+
 ### Technologies and skills
 
 <div>
@@ -50,3 +61,6 @@
 <div> 
   <a href = "mailto:eduardocesar92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduhardocesar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+
+***
+create by [@eduhardocesar](https://github.com/eduhardocesar/)
