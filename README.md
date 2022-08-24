@@ -8,7 +8,7 @@ I'm `Brazilian`, born in the city of `São Paulo`, since I was a child I've been
 
 <br>
 
-> - I currently work as a Consultant (Lighthouse | Deploy Solutions | Data Analytics) at KPMG Brasil;
+> - I currently work as a Data Analyst (Lighthouse | Deploy Solutions | Data Analytics) at KPMG Brasil;
 > - I have a Bachelor's Degree in `Control and Automation Engineering`.
 
 ### GitHub Stats
