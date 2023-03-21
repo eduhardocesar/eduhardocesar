@@ -1,6 +1,6 @@
 ### Hello everyone! I'm `Eduardo César` 👋
 
-<div><img height="250" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></div>
+<div><img height="150" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></div>
 
 <br>
 
@@ -31,10 +31,22 @@ I'm `Brazilian`, born in the city of `São Paulo`, since I was a child I've been
     <img height="30" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
     <img height="30" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
     <img height="30" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   </a>
 </div>
 
-### Databases
+### Other tecnologies
+
+<div>
+  <a href="https://github.com/eduhardocesar">
+    <img height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
+  </a>
+</div>
+
+### Databases that I use in my projects
 
 <div>
   <a href="https://github.com/eduhardocesar">
@@ -47,11 +59,17 @@ I'm `Brazilian`, born in the city of `São Paulo`, since I was a child I've been
   </a>
 </div>
 
-### I'm studying
+
+
+### OS I've used
+
 <div>
   <a href="https://github.com/eduhardocesar">
-    <img height="30" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-    <img height="30" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img height="30" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   </a>
 </div>
 
@@ -60,6 +78,14 @@ I'm `Brazilian`, born in the city of `São Paulo`, since I was a child I've been
 <div>
   <a href="https://github.com/eduhardocesar">
     <img height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  </a>
+</div>
+
+### I'm studying
+<div>
+  <a href="https://github.com/eduhardocesar">
+    <img height="30" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img height="30" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/>
   </a>
 </div>
 
