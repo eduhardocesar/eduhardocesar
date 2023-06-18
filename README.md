@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=374655&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9C3F06&height=120&section=header"/>
 
 ### Hello everyone! I'm `Eduardo César` 👋
 
@@ -6,21 +6,12 @@
 
 <br>
 
-I'm `Brazilian`, born in the city of `São Paulo`, since I was a child I've been interested in `technology`, and always in my studies I tried to develop new technologies for the `benefit of all`. Listening to good music while writing my codes is essential.
+I'm `Brazilian`, born in the city of `São Paulo`, since I was a child I've been interested in `technology`, I have more than `10 years` of experience in IT, always in my studies I tried to develop new technologies for the `benefit of all`. Listening to good music while writing my codes is essential.
 
 <br>
 
 > - I currently work as a Data Analyst (Lighthouse | Deploy Solutions | Data Analytics) at KPMG Brasil;
 > - I have a Bachelor's Degree in `Control and Automation Engineering`.
-
-### GitHub Stats
-
-<div>
-  <a href="https://github.com/eduhardocesar">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduhardocesar&show_icons=true&bg_color=374655&title_color=231F28&icon_color=231F28&text_color=ffffff&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhardocesar&layout=compact&langs_count=7&&bg_color=374655&title_color=231F28&text_color=ffffff&"/>
-  </a>
-</div>
 
 ***
 
@@ -100,4 +91,4 @@ I'm `Brazilian`, born in the city of `São Paulo`, since I was a child I've been
 ***
 create by [@eduhardocesar](https://github.com/eduhardocesar/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=374655&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9C3F06&height=120&section=footer"/>
