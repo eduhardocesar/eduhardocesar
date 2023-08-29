@@ -24,9 +24,6 @@ I'm `Brazilian`, born in the city of `São Paulo`, since I was a child I've been
     <img height="30" src="https://img.shields.io/badge/Selenium-374655?style=for-the-badge&logo=Selenium&logoColor=white"/>
     <img height="30" src="https://img.shields.io/badge/PowerBI-374655?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
     <img height="30" src="https://img.shields.io/badge/Postman-374655?style=for-the-badge&logo=Postman&logoColor=white"/>
-    <img height="30" src="https://img.shields.io/badge/HTML5-374655?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img height="30" src="https://img.shields.io/badge/CSS3-374655?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img height="30" src="https://img.shields.io/badge/JavaScript-374655?style=for-the-badge&logo=javascript&logoColor=white"/>
   </a>
 </div>
 
